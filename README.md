@@ -1,5 +1,4 @@
 
-```markdown
 # Modal Component
 
 A lightweight and customizable modal component built with HTML, CSS, and JavaScript. This component is designed to provide an elegant and responsive way to display modals for various use cases such as alerts, confirmations, forms, and more.
@@ -75,6 +74,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This is fully in Markdown format and in a single continuous block. Let me know if there’s anything else you need!
